@@ -1,3 +1,6 @@
 print("Hello world")
 print("aseihjw;gehr;oqhggoirnwiptuhhijdoishnd[oihnsh")
 print("salam")
+print("ders")
+print("file")
+print("size")
